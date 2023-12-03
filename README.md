@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 👨‍🎓 I’m currently studying Business Analytics at Notre Dame.
+- 👨‍💼 Upon graduation, I'll be working as a Brand Manager at Procter & Gamble.
+- 📚 Outside of work, I’m learning to build extended reality environments.
 <!--
 **loganbalfantz/loganbalfantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
